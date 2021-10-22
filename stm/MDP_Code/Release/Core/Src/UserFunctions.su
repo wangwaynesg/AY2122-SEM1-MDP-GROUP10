@@ -1,0 +1,6 @@
+UserFunctions.c:113:6:robot_move_const	168	static
+UserFunctions.c:315:5:IR	32	static
+UserFunctions.c:340:6:rstDirection	8	static
+UserFunctions.c:8:5:robot_move	184	static
+UserFunctions.c:269:6:robot_move_hardcode_triangle	176	static
+UserFunctions.c:350:5:encoder	40	static

@@ -1,0 +1,3 @@
+UserFunctions.c:8:6:robot_move	16	static
+UserFunctions.c:119:6:rstDirection	16	static
+UserFunctions.c:130:5:encoder	24	static
